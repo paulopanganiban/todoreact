@@ -1,0 +1,10 @@
+firebase
+react
+TODO app
+Deployed online
+Database
+
+Change to workout app with google sign
+
+
+baseline functionality - bago mag arte arte. html tags are the key :)
