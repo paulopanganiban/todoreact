@@ -26,6 +26,7 @@ function App() {
   }
   return (
     <div className="App">
+      <h1>CRUD React and Firebase Database and Hosting</h1>
       <form>
         <FormControl>
           <InputLabel>Write a task</InputLabel>
